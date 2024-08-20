@@ -24,8 +24,7 @@ bench set-redis-socketio-host redis:6379
 sed -i '/redis/d' ./Procfile
 sed -i '/watch/d' ./Procfile
 
-bench get-app lms
-
+bench get-app lms https://github.com/Bhanu-Prakash01/softie_lms
 bench new-site lms.localhost \
 --force \
 --mariadb-root-password 123 \
