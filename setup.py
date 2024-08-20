@@ -9,8 +9,8 @@ from lms import __version__ as version
 setup(
 	name="lms",
 	version=version,
-	description="LMS App",
-	author="Frappe",
+	description="Softie LMS",
+	author="Softie",
 	author_email="school@frappe.io",
 	packages=find_packages(),
 	zip_safe=False,

@@ -1,9 +1,9 @@
 from . import __version__ as app_version
 
-app_name = "frappe_lms"
-app_title = "Frappe LMS"
-app_publisher = "Frappe"
-app_description = "Frappe LMS App"
+app_name = "softie_lms"
+app_title = "Softie LMS"
+app_publisher = "Softie"
+app_description = "Softie LMS App"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "school@frappe.io"
